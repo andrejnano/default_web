@@ -21,5 +21,5 @@ Projekt tvorí základný index.html súbor + priečinok assets v ktorom sa nach
 
 
 
-Projekt vytvortil Andrej Naňo
+Projekt vytvoril Andrej Naňo
 http://andrejnano.sk
