@@ -18,3 +18,8 @@ Projekt tvorí základný index.html súbor + priečinok assets v ktorom sa nach
   * js
     * jquery.js
     * scripts.js
+
+
+
+Projekt vytvortil Andrej Naňo
+http://andrejnano.sk
